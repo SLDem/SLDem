@@ -1,7 +1,7 @@
 Welcome to SLDem's GitHub 👨‍💻
 
 <p><a href="https://stackoverflow.com/users/14535309/sldem">
-<img src="https://img.shields.io/badge/Stack-Overflow" alt="Static Badge" width="40" height="15">
+<img src="https://img.shields.io/badge/Stack-Overflow" alt="Static Badge" width="30" height="15">
 </a></p>
 
 Trophies:
@@ -16,6 +16,7 @@ Commit activity:
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+Technologies:
 <div style="style="display: flex; justify-content: center; align-items: center; margin: auto;">
   <div style="display: flex; flex-direction: column; align-items: center;">
 <img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img height=80 width=80 
