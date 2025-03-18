@@ -2,7 +2,7 @@ Welcome to SLDem's GitHub 👨‍💻
 
 Experienced developer with over 3 years of commercial experience in the industry, very good with technologies like Python, Django, Flask, PostgreSQL, Docker, have passion in developing web-applications, fixing bugs, testing.
 
-_Languages_:
+_Languages_
 
 ````
 Ukrainian - Native
@@ -28,7 +28,7 @@ English - Advanced
   </a>
 </p>
 
-**Technologies**:
+**Technologies**
 
 <img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />   <img height=80 width=80 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />   <img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />   <img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" />   <img height=80 width=80 
@@ -37,14 +37,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-ori
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
 
 
-**Trophies**:
+**Trophies**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&theme=onedark)](https://github.com/SLDem/github-profile-trophy)
 
-**Stats**:
+**Stats**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green) 
 
-**Commit activity**:
+**Commit activity**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
