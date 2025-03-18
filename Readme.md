@@ -2,7 +2,7 @@ Welcome to SLDem's GitHub 👨‍💻
 
 <p style="display: flex; gap: 10px;">
   <a href="https://stackoverflow.com/users/14535309/sldem">
-    <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="50" height="17">
+    <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17">
   </a>
   
   <a href="https://www.facebook.com/slavko.dem/">
