@@ -5,11 +5,9 @@ Experienced developer with over 3 years of commercial experience in the industry
 _Languages_:
 
 ````
-```
 Ukrainian - Native
 
 English - Advanced
-```
 ````
 
 <p style="display: flex; gap: 10px;">
