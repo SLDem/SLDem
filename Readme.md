@@ -8,7 +8,13 @@ Welcome to SLDem's GitHub 👨‍💻
   <a href="https://www.facebook.com/slavko.dem/">
     <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17">
   </a>
+
+  <a href="https://www.instagram.com/yaroslav8342/">
+    <img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17">
+  </a>
 </p>
+
+
 
 Trophies:
 
