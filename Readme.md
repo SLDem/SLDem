@@ -5,9 +5,11 @@ Welcome to SLDem's GitHub 👨‍💻
 </a></p>
 
 Trophies:
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&theme=onedark)](https://github.com/SLDem/github-profile-trophy)
 
 Stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem)](https://github.com/anuraghazra/github-readme-stats)
 
 
