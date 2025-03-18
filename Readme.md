@@ -4,9 +4,9 @@ Experienced developer with over 3 years of commercial experience in the industry
 
 _Languages_:
 
-`Ukrainian - Native
+'''Ukrainian - Native
 
-English - Advanced`
+English - Advanced'''
 
 <p style="display: flex; gap: 10px;">
   <a href="https://stackoverflow.com/users/14535309/sldem">
