@@ -3,7 +3,6 @@ Welcome to SLDem's GitHub 👨‍💻
 <p><a href="https://stackoverflow.com/users/14535309/sldem">
 <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="50" height="17">
 </a></p>
-
 <p><a href="https://www.facebook.com/slavko.dem/">
 <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17">
 </a></p>
