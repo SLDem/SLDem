@@ -43,7 +43,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-origi
 
 **Stats**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem)](https://github.com/anuraghazra/github-readme-stats)   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green) 
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem">
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green">
+</div>
 
 **Commit activity**
 
