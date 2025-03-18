@@ -2,6 +2,10 @@ Welcome to SLDem's GitHub 👨‍💻
 
 Experienced developer with over 3 years of commercial experience in the industry, very good with technologies like Python, Django, Flask, PostgreSQL, Docker, have passion in developing web-applications, fixing bugs, testing.
 
+Languages:
+`Ukrainian - Native` 🇺🇦
+`English - Advanced` 🇬🇧
+
 <p style="display: flex; gap: 10px;">
   <a href="https://stackoverflow.com/users/14535309/sldem">
     <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17">
