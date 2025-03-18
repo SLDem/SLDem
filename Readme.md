@@ -35,7 +35,7 @@ English - Advanced
 
 **Stats**
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a><img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green&line_height=30">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a><img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green&line_height=32">
 
 **Commit activity**
 
