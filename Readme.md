@@ -14,14 +14,14 @@ Welcome to SLDem's GitHub 👨‍💻
   </a>
 </p>
 
-<span>
+<p style="display: flex; gap: 10px;">
   <a href="https://stackoverflow.com/users/14535309/sldem">
-    <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="50" height="17">
+    <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="50" height="17" style="vertical-align: middle;">
   </a>
   <a href="https://www.facebook.com/slavko.dem/">
-    <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17">
+    <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17" style="vertical-align: middle;">
   </a>
-</span>
+</p>
 
 Trophies:
 
