@@ -9,21 +9,7 @@ Ukrainian - Native
 
 English - Advanced
 ````
-
-  <a href="https://stackoverflow.com/users/14535309/sldem">
-    <img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17">
-  </a>
-  <a href="https://www.facebook.com/slavko.dem/">
-    <img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17">
-  </a>
-
-  <a href="https://www.instagram.com/yaroslav8342/">
-    <img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17">
-  </a>
-
-  <a href="https://www.linkedin.com/in/yaroslav-demtsiukh/">
-    <img src="https://img.shields.io/badge/Linkedin-20abc6" alt="Linkedin" width="50" height="17">
-  </a>
+<a href="https://stackoverflow.com/users/14535309/sldem"><img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17"></a><a href="https://www.facebook.com/slavko.dem/"><img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17"></a><a href="https://www.instagram.com/yaroslav8342/"><img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17"></a><a href="https://www.linkedin.com/in/yaroslav-demtsiukh/"><img src="https://img.shields.io/badge/Linkedin-20abc6" alt="Linkedin" width="50" height="17"></a>
 
 **Technologies I've had the most experience with**
 
