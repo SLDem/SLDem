@@ -1,7 +1,7 @@
 Welcome to SLDem's GitHub 👨‍💻
 
 <p><a href="https://stackoverflow.com/users/14535309/sldem">
-<img src="https://img.shields.io/badge/StackOverflow-blue" alt="Static Badge" width="500" height="17">
+<img src="https://img.shields.io/badge/StackOverflow-orange" alt="Static Badge" width="50" height="17">
 </a></p>
 
 Trophies:
