@@ -4,4 +4,4 @@ Welcome to my GitHub 👨‍💻
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&theme=onedark)](https://github.com/SLDem/github-profile-trophy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&theme=blue-green)
