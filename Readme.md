@@ -6,11 +6,9 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 
 **Languages**
 
-_Ukrainian - Native
-_
+_Ukrainian - Native_
 
-_English - Advanced
-_
+_English - Advanced_
 
 **Technologies I've had the most experience with**
 
