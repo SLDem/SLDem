@@ -31,7 +31,7 @@ English - Advanced
 
 **Trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&theme=onedark)](https://github.com/SLDem/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SLDem)](https://github.com/SLDem/github-profile-trophy)
 
 **Stats**
 
