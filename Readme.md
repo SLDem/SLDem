@@ -6,10 +6,13 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 
 <p align="center">
 Languages
-
+</p>
+<p align="center">
+  
 _Ukrainian - Native_
 
 _English - Advanced_
+
 </p>
 
 
