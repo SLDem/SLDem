@@ -13,7 +13,7 @@ Languages
 </p>
 
 <p align="center">
-English - Advanced
+<i>English - Advanced</i>
 </p>
 
 
