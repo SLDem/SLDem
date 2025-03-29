@@ -1,4 +1,4 @@
-<h2>Welcome to my GitHub 👨‍💻</h2>
+<h2>Welcome to my GitHub 👋😀</h2>
 
 I'm an experienced developer with over 3 years of commercial experience in the industry, very good with technologies like Python, Django, Flask, PostgreSQL, Docker, have passion in developing web-applications, fixing bugs, testing.
 
