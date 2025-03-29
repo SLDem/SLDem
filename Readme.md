@@ -9,7 +9,7 @@ Languages
 </i>
 
 <p align="center">
-Ukrainian - Native
+<i>Ukrainian - Native</i>
 </p>
 
 <p align="center">
