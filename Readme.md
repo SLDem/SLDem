@@ -8,12 +8,11 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 Languages
 </p>
 <p align="center">
-  
 _Ukrainian - Native_
+</p>
 
 _English - Advanced_
 
-</p>
 
 
 <p align="center">
