@@ -4,7 +4,7 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 
 <a href="https://stackoverflow.com/users/14535309/sldem"><img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17"></a> <a href="https://www.facebook.com/slavko.dem/"><img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17"></a> <a href="https://www.instagram.com/yaroslav8342/"><img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17"></a> <a href="https://www.linkedin.com/in/yaroslav-demtsiukh/"><img src="https://img.shields.io/badge/Linkedin-20abc6" alt="Linkedin" width="50" height="17"></a>
 
-**Languages**
+**Languages:**
 
 _Ukrainian - Native_
 
@@ -26,14 +26,14 @@ _English - Advanced_
 </table>
 
 
-**Trophies**
+**Trophies:**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem)](https://github.com/SLDem/github-profile-trophy)
 
-**Stats**
+**Stats:**
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
 
-**Commit activity**
+**Commit activity:**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
