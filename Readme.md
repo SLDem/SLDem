@@ -17,6 +17,7 @@ Languages
 <i>English - Advanced</i>
 </p>
 
+<br>
 
 <p align="center">
 Technologies I've had the most experience with
