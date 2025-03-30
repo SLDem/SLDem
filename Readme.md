@@ -59,5 +59,9 @@ Commit activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
+Profile views
+</p>
+
+<p align="center">
   <a href="https://u8views.com/github/SLDem"><img src="https://u8views.com/api/v1/github/profiles/60467780/views/day-week-month-total-count.svg"></a>
 </p>
