@@ -1,6 +1,6 @@
 <h2>Welcome to my GitHub 👋😀</h2>
 
-I'm an enthusiastic dev with over 3 years of commercial experience in the industry, very good with technologies: Python, Django, Flask, PostgreSQL, Docker, have passion in developing web-applications, fixing bugs, testing.
+I'm an enthusiastic dev with over 3 years of commercial experience in the industry, very good with technologies: Python, Django, Flask, PostgreSQL, Docker, have a passion in developing web-applications, fixing bugs, testing.
 
 <a href="https://stackoverflow.com/users/14535309/sldem"><img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17"></a> <a href="https://www.facebook.com/slavko.dem/"><img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17"></a> <a href="https://www.instagram.com/yaroslav8342/"><img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17"></a> <a href="https://www.linkedin.com/in/yaroslav-demtsiukh/"><img src="https://img.shields.io/badge/Linkedin-20abc6" alt="Linkedin" width="50" height="17"></a>
 
