@@ -27,18 +27,6 @@ Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&rank=-?)](https://github.com/SLDem/github-profile-trophy)
 
-<p align="center">
-Stats
-</p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
-
-<p align="center">
-Commit activity
-</p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
 Technologies I've had the most experience with
@@ -56,3 +44,16 @@ Technologies I've had the most experience with
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /></td>
   </tr>
 </table>
+
+
+<p align="center">
+Stats
+</p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
+
+<p align="center">
+Commit activity
+</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
