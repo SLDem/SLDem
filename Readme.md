@@ -44,7 +44,7 @@ Technologies I've had the most experience with
 Trophies
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SLDem)](https://github.com/SLDem/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&rank=-?)](https://github.com/SLDem/github-profile-trophy)
 
 <p align="center">
 Stats
