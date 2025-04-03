@@ -15,8 +15,8 @@ Languages
 
 
 <p align="center">
-![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png)<i>Ukrainian - Native</i> | 
-![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png)<i>English - Advanced</i>
+![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png) <i>Ukrainian - Native</i> | 
+![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png) <i>English - Advanced</i>
 </p>
 
 <br>
