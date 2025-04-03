@@ -13,10 +13,9 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 Languages
 </p>
 
-
 <p align="center">
-![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ua.png) <i>Ukrainian - Native</i> | 
-![alt text](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png) <i>English - Advanced</i>
+![ua](https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2) <i>Ukrainian - Native</i> | 
+![eng](https://github.com/user-attachments/assets/96d63c8f-64a9-418a-9d23-65cc4d8045d2) <i>English - Advanced</i>
 </p>
 
 <br>
