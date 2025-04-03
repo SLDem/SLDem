@@ -14,12 +14,12 @@ Languages
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua" width="50" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua" style="border-radius: 50%;">
   <br><i>Ukrainian - Native</i>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng" width="50" style="border-radius: 50%;">
+  <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng" style="border-radius: 50%;">
   <br><i>English - Advanced</i>
 </p>
 
