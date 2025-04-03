@@ -29,9 +29,7 @@ Languages
 Trophies
 </p>
 
-<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&rank=-?)](https://github.com/SLDem/github-profile-trophy)
-</p>
 
 
 <p align="center">
