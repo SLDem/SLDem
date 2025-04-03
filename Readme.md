@@ -38,8 +38,7 @@ Trophies
 Technologies I've had the most experience with
 </p>
 
-<p align="center">
-<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+<table align="center" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/></td>
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
@@ -51,7 +50,6 @@ Technologies I've had the most experience with
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" /></td>
   </tr>
 </table>
-</p>
 
 <p align="center">
 Stats
