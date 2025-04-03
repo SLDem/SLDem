@@ -13,6 +13,8 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 Languages
 </p>
 
+![eng](https://github.com/user-attachments/assets/4aa6c8a1-36e6-4f8c-ad1f-d4d2a3994121)
+
 <p align="center">
 ![ua](https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2) <i>Ukrainian - Native</i> | 
 ![eng](https://github.com/user-attachments/assets/96d63c8f-64a9-418a-9d23-65cc4d8045d2) <i>English - Advanced</i>
