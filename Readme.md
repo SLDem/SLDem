@@ -15,7 +15,7 @@ Languages
 
 
 <p align="center">
-<i>Ukrainian - Native</i>
+<i>Ukrainian - Native</i> | 
 <i>English - Advanced</i>
 </p>
 
