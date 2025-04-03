@@ -52,7 +52,9 @@ Technologies I've had the most experience with
 Stats
 </p>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
+</p>
 
 <p align="center">
 Commit activity
