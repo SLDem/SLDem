@@ -13,9 +13,18 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 Languages
 </p>
 
-![ua](https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2) <i>Ukrainian - Native</i>
-
-![eng](https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f) <i>English - Advanced</i>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua">  
+      <br><i>Ukrainian - Native</i>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng">
+      <br><i>English - Advanced</i>
+    </td>
+  </tr>
+</table>
 
 <br>
 <p align="center">
