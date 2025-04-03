@@ -17,11 +17,11 @@ Languages
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua">  
-      <br><i>Ukrainian - Native</i>
+      <br><i>UA - Native</i>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng">
-      <br><i>English - Advanced</i>
+      <br><i>UK - Advanced</i>
     </td>
   </tr>
 </table>
