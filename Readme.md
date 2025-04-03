@@ -9,7 +9,6 @@ I'm an enthusiastic dev with over 3 years of commercial experience in the indust
 </p>
 
 <br>
-
 <p align="center">
 Languages
 </p>
@@ -24,14 +23,13 @@ Languages
 </p>
 
 <br>
-
 <p align="center">
 Trophies
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&rank=-?)](https://github.com/SLDem/github-profile-trophy)
 
-
+<br>
 <p align="center">
 Technologies I've had the most experience with
 </p>
@@ -49,6 +47,7 @@ Technologies I've had the most experience with
   </tr>
 </table>
 
+<br>
 <p align="center">
 Stats
 </p>
@@ -57,12 +56,14 @@ Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
 </p>
 
+<br>
 <p align="center">
 Commit activity
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
 <p align="center">
 Profile views
 </p>
