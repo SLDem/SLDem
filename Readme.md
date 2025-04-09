@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to my GitHub 👋😀</h2>
 
 <p align="center">
-I'm an enthusiastic dev with over 3 years of commercial experience in the industry, very good with technologies: Python, Django, Flask, PostgreSQL, Docker, I have a passion in developing web-applications, fixing bugs, testing.
+I'm an enthusiastic dev with over 3 years of commercial experience in the industry, very good with technologies: Python, Django, Flask, PostgreSQL, Docker, I have a passion in developing web-applications, fixing bugs and testing.
 </p>
 
 <p align="center">
