@@ -35,8 +35,8 @@ Technologies
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLDem"></a>  <img src="https://github-readme-stats.vercel.app/api?username=SLDem&show_icons=true&line_height=40">
 </p>
 
-<p align="center">
-Commit activity
+<p>
+Commits
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
