@@ -8,15 +8,15 @@ I'm a dev with over 3 years of commercial experience in the industry, very good 
 <a href="https://stackoverflow.com/users/14535309/sldem"><img src="https://img.shields.io/badge/StackOverflow-orange" alt="StackOverflow" width="60" height="17"></a> <a href="https://www.facebook.com/slavko.dem/"><img src="https://img.shields.io/badge/Facebook-blue" alt="Facebook" width="50" height="17"></a> <a href="https://www.instagram.com/yaroslav8342/"><img src="https://img.shields.io/badge/Instagram-ee76f2" alt="Instagram" width="50" height="17"></a> <a href="https://www.linkedin.com/in/yaroslav-demtsiukh/"><img src="https://img.shields.io/badge/Linkedin-20abc6" alt="Linkedin" width="50" height="17"></a>
 </p>
 
-<p align="center">
+<b align="center">
 Languages
-</p>
+</b>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua"><i>UA - Native</i> | <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng"><i>UK - Advanced</i></p>
 
-<p align="center">
+<b align="center">
 Technologies
-</p>
+</b>
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -37,10 +37,10 @@ Technologies
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SLDem&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<b align="center">
 Profile views
-</p>
+</b>
 
-<p align="center">
+<b align="center">
   <a href="https://u8views.com/github/SLDem"><img src="https://u8views.com/api/v1/github/profiles/60467780/views/day-week-month-total-count.svg"></a>
-</p>
+</b>
