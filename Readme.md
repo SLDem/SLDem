@@ -41,6 +41,6 @@ Technologies
 Profile views
 </p>
 
-<b align="center">
+<p align="center">
   <a href="https://u8views.com/github/SLDem"><img src="https://u8views.com/api/v1/github/profiles/60467780/views/day-week-month-total-count.svg"></a>
-</b>
+</p>
