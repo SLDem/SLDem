@@ -14,13 +14,6 @@ Languages
 
 <p align="center"><img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua"><i>UA - Native</i> | <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng"><i>UK - Advanced</i></p>
 
-
-<p align="center">
-Trophies
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SLDem&rank=-?)](https://github.com/SLDem/github-profile-trophy)
-
 <p align="center">
 Technologies I've had the most experience with
 </p>
