@@ -15,10 +15,10 @@ Languages
 <p align="center"><img src="https://github.com/user-attachments/assets/5ae9de36-e97c-420e-be88-3c54886c99e2" alt="ua"><i>UA - Native</i> | <img src="https://github.com/user-attachments/assets/b3b0aa58-2ca8-437f-bdad-e08334cf836f" alt="eng"><i>UK - Advanced</i></p>
 
 <p align="center">
-Technologies I've had the most experience with
+Technologies
 </p>
 
-<table align="center" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/></td>
     <td><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></td>
