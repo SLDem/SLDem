@@ -1,4 +1,4 @@
-<h2 align="center">Welcome 👋😀</h2>
+<h2 align="center">Welcome 👋</h2>
 
 <p align="center">
 I'm a dev with over 3 years of commercial experience, very good with technologies: Python, Django, Flask, PostgreSQL, Docker.
